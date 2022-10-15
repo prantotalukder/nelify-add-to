@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nelify-add-to/static/css/main.073c9b0a.css",
+    "main.js": "/nelify-add-to/static/js/main.e6e3508e.js",
+    "static/js/787.21ac897a.chunk.js": "/nelify-add-to/static/js/787.21ac897a.chunk.js",
+    "index.html": "/nelify-add-to/index.html",
+    "main.073c9b0a.css.map": "/nelify-add-to/static/css/main.073c9b0a.css.map",
+    "main.e6e3508e.js.map": "/nelify-add-to/static/js/main.e6e3508e.js.map",
+    "787.21ac897a.chunk.js.map": "/nelify-add-to/static/js/787.21ac897a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e6e3508e.js"
+  ]
+}
